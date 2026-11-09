@@ -5,9 +5,9 @@ body{
     padding: 0;
 }
 .container {
-    width: 80%;
-    margin: 0 auto;
+    width: 80vw;
+    margin: 10px auto;
     padding: 20px;
     border: 10px solid #000000;
-    height: 90vh;
+    height: 80vh;
 }
