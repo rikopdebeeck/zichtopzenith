@@ -1,4 +1,4 @@
 # zichtopzenith
 Schoolkrantje
-[yes](Website/HTML/index2.html)
-[jippie](Website/HTML/index.html)
+[yes](HTML/index2.html)
+[jippie](HTML/index.html)
