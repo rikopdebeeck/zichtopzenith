@@ -9,5 +9,6 @@ body{
     margin: 10px auto;
     padding: 20px;
     border: 10px solid #000000;
+    border-radius: 10px;
     height: 80vh;
 }
