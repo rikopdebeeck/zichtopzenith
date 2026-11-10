@@ -3,16 +3,19 @@ body{
     font-family: arial, sans-serif;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
 .container {
-    width: 80vw;
-    height: 80vh;
-    margin: 10vh 10vw 10vh 10vw;
+    width: calc(100% - 40px);
+    min-height: calc(100vh - 40px);
+    margin: 20px;
+    box-sizing: border-box;
     padding: 20px;
     border: 1px outset #ffffff;
     background-color: #F0F0F0;
     border-radius: 10px;
-    height: 80vh;
     display: flex;
     text-align: center;
     flex-direction: column;
