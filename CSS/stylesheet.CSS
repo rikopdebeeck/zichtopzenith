@@ -13,9 +13,5 @@ body{
     border-radius: 10px;
     height: 80vh;
     display: flex;
-}
-button{
     text-align: center;
-    flex-grow: 1;
-    margin: 20px;
 }
