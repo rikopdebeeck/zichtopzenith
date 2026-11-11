@@ -26,28 +26,28 @@ body {
     background-color: #f8f8f8;
     display: flex;
     flex-direction: column;
-    font-size: clamp(1rem, 2vw, 2rem);
+    font-size: 1rem;
     text-align: center;
 }
 
 .container h1 {
     margin: 0 0 0.35em;
-    font-size: clamp(2rem, 5vw, 4.5rem);
+    font-size: 2.25rem;
 }
 
 .homepagebutton {
     align-self: center;
-    font-size: clamp(1rem, 1.8vw, 1.5rem);
+    font-size: 1.125rem;
     padding: 0.75em 1.25em;
 }
 
 @media (max-width: 600px) {
     .container {
-        font-size: clamp(1.5rem, 6vw, 2rem);
+        font-size: 1.5rem;
     }
 
     .container h1 {
-        font-size: clamp(2.5rem, 12vw, 4rem);
+        font-size: 3rem;
     }
 
     .homepagebutton {
